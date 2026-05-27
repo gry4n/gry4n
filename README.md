@@ -22,7 +22,7 @@ Meu objetivo é crescer na área da tecnologia, aprender novas linguagens e dese
 📷 @g_.ry4n
 
 <p align="center">
-  <img src="chief/perfil.jpg" width="300"/>
+  <img src="https://i.pinimg.com/736x/17/e9/58/17e9584da365e54ffc4801c0b59b01ca.jpg" width="300"/>
 </p>
 
 <!--
